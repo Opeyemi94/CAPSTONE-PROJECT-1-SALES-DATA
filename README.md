@@ -34,9 +34,7 @@ The Primary source of Data used here is coming from COMFORTZONE ENTERPRISES Sale
 - Use SQL to query and organize the raw data, filtering by product, region, and date.
 - Apply SQL aggregations the following below:
    1. Retrieve the total sales for each product category.
-      ![image](https://github.com/user-attachments/assets/15b406bc-bd62-4055-ac25-5bce5334a6e0)
-
-
+     
    2.  Find the number of sales transactions in each region.
    4. Find the highest-selling product by total sales value.
    5. Calculate total revenue per product.
