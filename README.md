@@ -113,7 +113,16 @@ _______________
 
 #### **ANALYSIS**
 This pivot table presents below shows the total sales of six different product categories. Here's a breakdown and analysis:
-
+```
+Products	    Sum of Total Sales
+Gloves	       1,500,000 
+Hat	           1,587,500 
+Jacket	       1,050,000 
+Shirt	         2,450,000 
+Shoes	         3,087,500 
+Socks	         912,500 
+Grand Total	   10,587,500 
+```
 [PIVOT 1](https://github.com/user-attachments/assets/04989b16-d5ab-47ea-8f48-566b2f24be0c)
 
 #### ***Top-Performing Products:***
@@ -127,17 +136,17 @@ Hat: Sales are $1,587,500, about 15% of total sales.
 
 Gloves: Sales amount to $1,500,000, close to hats, contributing roughly 14.2%.
 
-**Low-Performing Products:**
+***Low-Performing Products:***
 
 Jacket: Sales are $1,050,000, making up around 9.9% of the total.
 
 Socks: The lowest in terms of sales, with $912,500, or about 8.6%.
 
-**Overall Total:**
+***Overall Total:***
 
 The Grand Total of sales for all products is $10,587,500
 
-**INSIGHTS:**
+***INSIGHTS:***
 Shoes and Shirts are the dominant categories, together making up over 52% of the total sales. Efforts to promote or expand these categories might yield high returns.
 Socks and Jackets have the lowest sales and may require further investigation—such as pricing, demand, or seasonal influences—to determine if improvements or adjustments are needed.
 This breakdown can help prioritize product focus areas and sales strategies based on contribution to total sales.
