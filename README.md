@@ -111,7 +111,7 @@ _______________
 - Use Excel formulas to calculate metrics such as average sales per product and 
   total revenue by region
 
-#### **INSIGHT**
+### **INSIGHT**
 
 #### TOTAL SALES BY PRODUCT 
 This pivot table presents below shows the total sales of six different product categories. Here's a breakdown and analysis:
@@ -148,7 +148,7 @@ Socks: The lowest in terms of sales, with $912,500, or about 8.6%.
 
 The Grand Total of sales for all products is $10,587,500
 
-### ***INSIGHTS:***
+#### ***Potential Recommendations***
 Shoes and Shirts are the dominant categories, together making up over 52% of the total sales. Efforts to promote or expand these categories might yield high returns.
 Socks and Jackets have the lowest sales and may require further investigation—such as pricing, demand, or seasonal influences—to determine if improvements or adjustments are needed.
 This breakdown can help prioritize product focus areas and sales strategies based on contribution to total sales.
@@ -188,7 +188,7 @@ Bar Chart: To highlight each region's total sales, showing the comparison betwee
 Pie Chart: For a percentage view of each region's contribution to the total sales, emphasizing how much each region adds to the overall performance.
 
 
-Potential Recommendations
+#### ***Potential Recommendations***
 Focus on Growth in the West: Given its low sales, the West region may benefit from targeted marketing or expansion strategies to boost its performance.
 Maintain Strength in the South and East: These regions are the largest contributors and could be optimized further to maintain or even increase their dominance.
 Investigate North Region’s Performance: While not as low as the West, the North’s sales could be improved, possibly by identifying challenges unique to this region.
