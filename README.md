@@ -104,13 +104,37 @@ _______________
       having sum(Quantity) = 0 
        ```
 
-
-#### ***EXCEL (PIVOT TABLE AND EXCEL VISUALIZATION):***
+### **EXCEL (PIVOT TABLE AND EXCEL VISUALIZATION):**
 - Product Sales Summary: Create a pivot table that displays total sales by product, allowing for the quick identification of top sellers.
 - Regional Sales Summary: Summarize sales by region to compare performance across different geographic areas.
 - Monthly Sales Trends: Use a pivot table to show sales trends by month, highlighting seasonal variations.
 - Use Excel formulas to calculate metrics such as average sales per product and 
   total revenue by region
+
+#### ***ANALYSIS***
+This pivot table presents the total sales of six different product categories. Here's a breakdown and analysis:
+
+![PIVOT 1](https://github.com/user-attachments/assets/04989b16-d5ab-47ea-8f48-566b2f24be0c)
+
+Top-Performing Products:
+
+Shoes: With sales of $3,087,500, shoes are the highest-grossing product, contributing approximately 29.2% of the overall sales.
+Shirt: The second highest, with $2,450,000 in sales, accounting for around 23.1% of total sales.
+Mid-Level Performers:
+
+Hat: Sales are $1,587,500, about 15% of total sales.
+Gloves: Sales amount to $1,500,000, close to hats, contributing roughly 14.2%.
+Low-Performing Products:
+
+Jacket: Sales are $1,050,000, making up around 9.9% of the total.
+Socks: The lowest in terms of sales, with $912,500, or about 8.6%.
+Overall Total:
+
+The Grand Total of sales for all products is $10,587,500.
+Insights:
+Shoes and Shirts are the dominant categories, together making up over 52% of the total sales. Efforts to promote or expand these categories might yield high returns.
+Socks and Jackets have the lowest sales and may require further investigation—such as pricing, demand, or seasonal influences—to determine if improvements or adjustments are needed.
+This breakdown can help prioritize product focus areas and sales strategies based on contribution to total sales.
 
 
 Power BI Dashboard Development:
