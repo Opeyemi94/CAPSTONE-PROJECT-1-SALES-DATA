@@ -155,7 +155,7 @@ This breakdown can help prioritize product focus areas and sales strategies base
 
 This breakdown can help prioritize product focus areas and sales strategies based on contribution to total sales.
 
-#### **INSIGHTS**
+### **INSIGHTS**
 
 #### ***Key Points***
 This pivot table presents below shows the total sales of six different Region. Here's a breakdown and analysis:
@@ -185,6 +185,7 @@ Visual Insights (Hypothetical Suggestions for Visualization)
 To further understand and communicate this data, consider:
 
 Bar Chart: To highlight each region's total sales, showing the comparison between them visually.
+
 Pie Chart: For a percentage view of each region's contribution to the total sales, emphasizing how much each region adds to the overall performance.
 
 
