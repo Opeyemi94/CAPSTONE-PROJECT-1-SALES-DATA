@@ -11,6 +11,7 @@ ________________
 So the goes of this project is to look more into this data to find more clear insights. By doing so, I will create a Power BI Visualization so as to know what's wortking and what's not working. So am helping COMFORTZONE make smarter decision to increase sales and better serve their customers. 
 
 ### **DATA SOURCES**
+______________
 The Primary source of Data used here is coming from COMFORTZONE ENTERPRISES Sales and Marketing Department.  
 
 #### ***Tools used in this project are:***
@@ -24,12 +25,13 @@ The Primary source of Data used here is coming from COMFORTZONE ENTERPRISES Sale
   1. To Create a dashboard that visualizes the insights found in Excel and SQL.
 
 ### **OBJECTIVES:**
+________________
 1. Identify Top-Selling Products: Analyze sales data to determine which products drive the highest revenue.
 2. Assess Regional Performance: Examine sales across different regions to highlight the strongest and weakest performers.
 3. Analyze Monthly Sales Trends: Track monthly sales patterns to identify seasonality, peaks, and troughs.
 
 ### **DATA ANALYSIS APPROACH:**
-
+_______________
 #### ***SQL Data Extraction:***
 - Use SQL to query and organize the raw data, filtering by product, region, and date.
 - Apply SQL aggregations the following below:
@@ -58,13 +60,52 @@ The Primary source of Data used here is coming from COMFORTZONE ENTERPRISES Sale
       from [dbo].[SALES DATA]
       group by product
       ```
-   6. Calculate monthly sales totals for the current year.
-   7. Find the top 5 customers by total purchase amount.
-   8. Calculate the percentage of total sales contributed by each region.
-   9. Identify products with no sales in the last quarter.
+   5. Calculate monthly sales totals for the current year.
+      ```
+       select * from [dbo].[SALES DATA]
+
+      alter table [dbo].[SALES DATA]
+      Add OrderMonth nvarchar (50)
+      update [dbo].[SALES DATA]
+      set OrderMonth = datename (Month, Orderdate)
+
+      alter table [dbo].[SALES DATA]
+      add OrderYear int
+      
+      update [dbo].[SALES DATA]
+      set OrderYear = YEar (OrderDate)
+      
+      select OrderMonth, Sum (quantity*UnitPrice) as Total_Sales 
+      From [dbo].[SALES DATA]
+      where orderYear = 2024
+      group by OrderMonth
+      ```
+   6. Find the top 5 customers by total purchase amount.
+      ```
+      SELECT TOP 5 CUSTOMER_ID, SUM(QUANTITY) AS Total_Purchase
+      FROM [dbo].[SALES DATA]
+      GROUP BY CUSTOMER_ID  
+      Order by Total_Purchase Desc
+      ``` 
+   7. Calculate the percentage of total sales contributed by each region.
+      ```
+      select Region, sum (Revenue) /
+      Sum (Quantity*UnitPrice) * 0.1 as Percentage_of_Total_Sales
+      from [dbo].[SALES DATA]
+      group by Region
+      Order by Percentage_of_Total_Sales
+      ```
+    8. Identify products with no sales in the last quarter.
+       ```
+       select product, sum (Quantity) as Sales
+      from [dbo].[SALES DATA]
+      where Month (Orderdate) between 10 and 12 
+      group by product 
+      having sum(Quantity) = 0 
+       ```
 
 
-#### *** EXCEL (PIVOT TABLE AND EXCEL VISUALIZATION):***
+#### ***EXCEL (PIVOT TABLE AND EXCEL VISUALIZATION):***
 - Product Sales Summary: Create a pivot table that displays total sales by product, allowing for the quick identification of top sellers.
 - Regional Sales Summary: Summarize sales by region to compare performance across different geographic areas.
 - Monthly Sales Trends: Use a pivot table to show sales trends by month, highlighting seasonal variations.
