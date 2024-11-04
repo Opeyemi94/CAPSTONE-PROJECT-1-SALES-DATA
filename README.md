@@ -64,10 +64,14 @@ The Primary source of Data used here is coming from COMFORTZONE ENTERPRISES Sale
    9. Identify products with no sales in the last quarter.
 
 
-#### ***Pivot Tables in Excel:***
+#### *** EXCEL (PIVOT TABLE AND EXCEL VISUALIZATION):***
 - Product Sales Summary: Create a pivot table that displays total sales by product, allowing for the quick identification of top sellers.
 - Regional Sales Summary: Summarize sales by region to compare performance across different geographic areas.
 - Monthly Sales Trends: Use a pivot table to show sales trends by month, highlighting seasonal variations.
+- Use Excel formulas to calculate metrics such as average sales per product and 
+  total revenue by region
+
+
 Power BI Dashboard Development:
 
 Import the summarized data from SQL and Excel into Power BI.
