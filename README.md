@@ -34,10 +34,30 @@ The Primary source of Data used here is coming from COMFORTZONE ENTERPRISES Sale
 - Use SQL to query and organize the raw data, filtering by product, region, and date.
 - Apply SQL aggregations the following below:
    1. Retrieve the total sales for each product category.
-     
-   2.  Find the number of sales transactions in each region.
-   4. Find the highest-selling product by total sales value.
-   5. Calculate total revenue per product.
+      ```
+      Select product, SUM (quantity*UnitPrice) as Total_Sales
+      From [dbo].[SALES DATA]
+      Group by Product
+      ```
+   2. Find the number of sales transactions in each region.
+      
+      ```
+      select region, sum(quantity*UnitPrice) as Sales_Per_Region
+      From [dbo].[SALES DATA]
+      Group by Region
+      ```
+   3. Find the highest-selling product by total sales value.
+      ```
+      Select Product, Sum(Quantity*UnitPrice) as Total_Sales
+      from  [dbo].[SALES DATA]
+      group by Product
+      ```
+   4. Calculate total revenue per product.
+        ```
+       select Product, sum(Revenue) as Total_Revenue
+      from [dbo].[SALES DATA]
+      group by product
+      ```
    6. Calculate monthly sales totals for the current year.
    7. Find the top 5 customers by total purchase amount.
    8. Calculate the percentage of total sales contributed by each region.
