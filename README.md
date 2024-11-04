@@ -187,9 +187,7 @@ To further understand and communicate this data, consider:
 Bar Chart: To highlight each region's total sales, showing the comparison between them visually.
 
 Pie Chart: For a percentage view of each region's contribution to the total sales, emphasizing how much each region adds to the overall performance.
-
-[BAT   PIE CHART](https://github.com/user-attachments/assets/acb63851-e40d-47c1-a20b-bca9534a871c)
-
+[BAT   PIE CHART](https://github.com/user-attachments/assets/d2d68f6d-d6ba-4418-9275-9f538b687c09)
 #### ***Potential Recommendations***
 Focus on Growth in the West: Given its low sales, the West region may benefit from targeted marketing or expansion strategies to boost its performance.
 Maintain Strength in the South and East: These regions are the largest contributors and could be optimized further to maintain or even increase their dominance.
