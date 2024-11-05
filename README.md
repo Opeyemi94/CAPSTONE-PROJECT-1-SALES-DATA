@@ -1,4 +1,4 @@
-# COMFORTZONE-ENTERPRISES-SALES-DATA
+![Screenshot (18)](https://github.com/user-attachments/assets/85cf4d2d-7a65-4f5e-ba4e-70e713419b94)# COMFORTZONE-ENTERPRISES-SALES-DATA
 
 ### **PROJECT SUMMARY:**
 ____________
@@ -116,78 +116,72 @@ _______________
 #### TOTAL SALES BY PRODUCT 
 This pivot table presents below shows the total sales of six different product categories. Here's a breakdown and analysis:
 ```
-Products	    Sum of Total Sales
-Gloves	       1,500,000 
-Hat	           1,587,500 
-Jacket	       1,050,000 
-Shirt	         2,450,000 
-Shoes	         3,087,500 
-Socks	         912,500 
-Grand Total	   10,587,500 
+Gloves	 296,900 
+Hat	     316,195 
+Jacket	 208,230 
+Shirt	   485,600 
+Shoes	   613,380 
+Socks	   180,785 
 ```
-[PIVOT 1](https://github.com/user-attachments/assets/04989b16-d5ab-47ea-8f48-566b2f24be0c)
 
 #### ***Top-Performing Products:***
-Shoes: With sales of $3,087,500, shoes are the highest-grossing product, contributing approximately 29.2% of the overall sales.
+Shoes: With sales of $613,380 , shoes are the highest-grossing product, contributing approximately 29.2% of the overall sales.
 
-Shirt: The second highest, with $2,450,000 in sales, accounting for around 23.1% of total sales.
+Shirt: The second highest, with $485,600  in sales, accounting for around 23.1% of total sales.
 
 #### **Mid-Level Performers:**
 
-Hat: Sales are $1,587,500, about 15% of total sales.
+Hat: Sales are $316,195 about 15% of total sales.
 
-Gloves: Sales amount to $1,500,000, close to hats, contributing roughly 14.2%.
+Gloves: Sales amount to $296,900, close to hats, contributing roughly 14.2%.
 
 #### ***Low-Performing Products:***
 
-Jacket: Sales are $1,050,000, making up around 9.9% of the total.
+Jacket: Sales are $208,230 , making up around 9.9% of the total.
 
-Socks: The lowest in terms of sales, with $912,500, or about 8.6%.
-
-#### ***Overall Total:***
-
-The Grand Total of sales for all products is $10,587,500
+Socks: The lowest in terms of sales, with $180,785 or about 8.6%.
 
 #### ***Potential Recommendations***
 Shoes and Shirts are the dominant categories, together making up over 52% of the total sales. Efforts to promote or expand these categories might yield high returns.
 Socks and Jackets have the lowest sales and may require further investigation—such as pricing, demand, or seasonal influences—to determine if improvements or adjustments are needed.
 This breakdown can help prioritize product focus areas and sales strategies based on contribution to total sales.
 
-This breakdown can help prioritize product focus areas and sales strategies based on contribution to total sales.
-
 ### **INSIGHTS**
 
 #### ***Key Points***
-This pivot table presents below shows the total sales of six different Region. Here's a breakdown and analysis:
-
-The overall sales across all regions amount to $5,575,000.
+This pivot table presents below shows the total sales of Four different Region. Here's a breakdown and analysis:
 
 #### ***Top-Performing Region:***
-The South region has the highest sales, totaling $2,425,000.
+The South Region has the highest sales, totaling $480,820
 This region alone contributes approximately 43.5% of the total sales.
 
 #### ***Second-Highest Sales Region:***
-The East region follows, with $1,987,500 in sales.
+The East Region follows, with $393,945 in sales.
 It accounts for roughly 35.6% of the total sales.
 
+#### ***Third-Highest Sales Region:***
+The North Region follows, with $143,960 in sales.
+It accounts for roughly 13.1% of the total sales.
+
 #### ***Lowest Sales Region:***
-The West region shows the lowest sales, amounting to $437,500.
+The West region shows the lowest sales, amounting to $86,605.
 This represents just about 7.8% of the total sales, indicating it may be underperforming compared to other regions.
 
 #### ***Comparative Performance:***
 The South region's sales are over 3.3 times higher than the West region.
-The East and North regions have significantly different sales figures, with the East achieving about 2.7 times more sales than the North.
+The West and North regions have significantly different sales figures, with the East achieving about 2.7 times more sales than the North.
 
 #### ***Proportional Analysis:***
-South and East together make up a large portion of sales, totaling $4,412,500 or 79.1% of the total sales.
-North and West combined contribute only $1,162,500 or 20.9%, suggesting that they may need attention or growth strategies.
+South and East together make up a large portion of sales, totaling $874,765 or 79.1% of the total sales.
+North and West combined contribute only $230,565 or 20.9%, suggesting that they may need attention or growth strategies.
 Visual Insights (Hypothetical Suggestions for Visualization)
 To further understand and communicate this data, consider:
 
 Bar Chart: To highlight each region's total sales, showing the comparison between them visually.
 
 Pie Chart: For a percentage view of each region's contribution to the total sales, emphasizing how much each region adds to the overall performance.
-[BAR-PIE-CHART](https://github.com/user-attachments/assets/0c28f534-d784-49f6-acd5-22c933e39ee4)
+
+[Uploading Screenshot (18).png…]()
 
 #### ***Potential Recommendations***
 Focus on Growth in the West: Given its low sales, the West region may benefit from targeted marketing or expansion strategies to boost its performance.
