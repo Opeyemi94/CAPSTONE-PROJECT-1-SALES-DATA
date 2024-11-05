@@ -267,10 +267,15 @@ AVERAGE Formula:
 Repeated this for each product by changing the product name in the formula.
 
 
-### EXCEL VISUALIZATION
+### EXCEL VISUALIZATION AND PIVOT TABLE
 
 ![Screenshot (19)](https://github.com/user-attachments/assets/6712febc-30fd-4812-b508-04e82eed2525)
 
+![Screenshot (23)](https://github.com/user-attachments/assets/3f2842bd-7325-4644-a711-155564982ceb)
+
+![Screenshot (24)](https://github.com/user-attachments/assets/fbe6d416-d1f8-41d5-bdf1-98d645db3e86)
+
+![Screenshot (25)](https://github.com/user-attachments/assets/65c5bf06-45ce-40e1-b49b-9004a77e67a1)
 
 ### Power BI Dashboard Development:
 
