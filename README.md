@@ -272,7 +272,6 @@ Repeated this for each product by changing the product name in the formula.
 ![Screenshot (19)](https://github.com/user-attachments/assets/6712febc-30fd-4812-b508-04e82eed2525)
 
 
-
 ### Power BI Dashboard Development:
 
 - Import the summarized data from SQL and Excel into Power BI.
@@ -282,3 +281,31 @@ Repeated this for each product by changing the product name in the formula.
 - Monthly sales trends with a line graph for easy pattern recognition.
 
 ![Screenshot (22)](https://github.com/user-attachments/assets/2885cdd0-eee8-4edd-9323-68af61182350)
+
+
+### RECOMMENDATION
+________________
+
+#### Based on the average sales per product analysis, here are some strategic recommendations:
+
+1. Increase Stock for High-Performing Items:
+
+  - Given that Gloves and Shirts have the highest average sales, consider increasing inventory levels for these items. This will help prevent stockouts and capitalize on their steady 
+    demand.
+  
+2. Seasonal Promotions for Mid-Range and Low-Performing Items:
+  - Products like Jackets and Socks show lower average sales, likely influenced by seasonal needs. Implement targeted promotions for Jackets during colder months and potentially for     
+    Socks as a complementary product. For Hats and Shoes, explore promotional pricing during specific seasons (e.g., winter hats or summer shoes).
+
+3. Focus Marketing Efforts on Consistently Popular Products:
+  - Allocate more marketing budget to promote Gloves, Shirts, and Hats, as these items have high or stable demand. Emphasizing these products in advertising can drive more sales and strengthen their popularity.
+
+4. Monitor and Optimize Product Mix:
+  - Regularly review product performance and adjust the mix based on sales trends. Products with lower demand, such as Jackets, should be evaluated for possible replacement or     
+    diversification to align better with customer preferences.
+
+### Conclusion
+The average sales analysis reveals that Gloves and Shirts are the top-performing products, indicating reliable customer demand. Hats and Shoes also perform well, while Jackets and Socks experience lower average sales, possibly due to seasonal demand patterns.
+
+By adjusting stock levels, implementing seasonal promotions, and focusing on popular products, the business can enhance profitability and better meet customer needs. Regular monitoring and adjusting of the product mix based on these insights will help sustain growth and optimize inventory.
+
