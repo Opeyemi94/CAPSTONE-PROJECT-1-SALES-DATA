@@ -1,4 +1,4 @@
-![Screenshot (18)](https://github.com/user-attachments/assets/85cf4d2d-7a65-4f5e-ba4e-70e713419b94)# COMFORTZONE-ENTERPRISES-SALES-DATA
+# COMFORTZONE-ENTERPRISES-SALES-DATA
 
 ### **PROJECT SUMMARY:**
 ____________
@@ -181,7 +181,7 @@ Bar Chart: To highlight each region's total sales, showing the comparison betwee
 
 Pie Chart: For a percentage view of each region's contribution to the total sales, emphasizing how much each region adds to the overall performance.
 
-[Uploading Screenshot (18).png…]()
+![Screenshot (18)](https://github.com/user-attachments/assets/85cf4d2d-7a65-4f5e-ba4e-70e713419b94)
 
 #### ***Potential Recommendations***
 Focus on Growth in the West: Given its low sales, the West region may benefit from targeted marketing or expansion strategies to boost its performance.
@@ -189,6 +189,35 @@ Maintain Strength in the South and East: These regions are the largest contribut
 Investigate North Region’s Performance: While not as low as the West, the North’s sales could be improved, possibly by identifying challenges unique to this region.
 This analysis highlights disparities across regions and suggests possible actions to balance and improve sales distribution.
 
+
+### **INSIGHTS**
+
+#### ***Key Points***
+This pivot table presents below shows the sales trends by month, highlighting seasonal variations.
+
+```
+Products	Sum of Quantity
+Jan	 2,480 
+Feb	 4,950 
+Mar	 3,493 
+Apr	 1,485 
+May	 994 
+Jun	 3,976 
+Jul	 5,940 
+Aug	 1,992 
+Sep	 3,472 
+Oct	 4,464 
+Nov	 2,970 
+Dec	 2,465 
+![image](https://github.com/user-attachments/assets/b2927611-005b-4d05-8f78-c8bd190ebbd2)
+```
+
+#### Here's a breakdown of the monthly sales, which show patterns in demand over time:
+
+High Sales Months: February (4,950), July (5,940), and October (4,464) have the highest sales, suggesting peaks in these months.
+Low Sales Months: May (994) and April (1,485) are notably lower, indicating potential off-seasons.
+
+This pivot table approach reveals that summer and early autumn may be peak seasons, while spring sees a dip, possibly due to seasonal changes in customer demand.
 
 
 
