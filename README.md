@@ -219,19 +219,48 @@ Low Sales Months: May (994) and April (1,485) are notably lower, indicating pote
 
 This pivot table approach reveals that summer and early autumn may be peak seasons, while spring sees a dip, possibly due to seasonal changes in customer demand.
 
+#### ***Key Points***
+This pivot table presents below shows the calculation of metrics such as average sales per product and total revenue by region
+
+#### Analyzing the average sales per product values from the provided calculated metrics data below to show insight into product performance, demand trends, and inventory considerations. Here’s a breakdown of what each metric could indicate and how you might interpret or use these results.
+
+- Provided Data
+```
+PRODUCT	AVERAGE SALES PER PRODUCT
+Gloves	8.3
+Hat    	8.0
+Jacket	3.7
+Shirt  	8.3
+Shoes	  7.2
+Sock	  5.3
+```
+
+#### ***High-Performing Products:***
+Gloves and Shirts both have an average sales value of 8.3, which suggests they are top performers in terms of average monthly sales.
+The higher average could indicate steady demand and popularity among customers, making these reliable products to keep in stock.
+Regular promotions or inventory expansion for these items might also be beneficial.
+
+#### ***Mid-Range Products:***
+Hats and Shoes show moderately high average sales, with 8.0 and 7.2, respectively.
+This level indicates consistent demand but slightly lower than Gloves and Shirts, suggesting these products are also popular but may not sell as quickly.
+Monitoring seasonal sales trends for these products could be valuable, as demand for hats and shoes might vary by season (e.g., winter hats or summer shoes).
+
+#### ***Lower-Performing Products:***
+Jackets and Socks show lower average sales values, at 3.7 and 5.3.
+This could indicate a smaller or more sporadic customer demand, possibly influenced by seasonal needs (e.g., jackets selling primarily in colder months).
+For these products, strategies like targeted promotions or seasonal sales could help boost performance.
+
+#### ***Excel Formula Insights***
+To calculate these averages in Excel, you would typically use the AVERAGEIF or AVERAGEIFS functions if multiple entries are available per product, or simply AVERAGE if there's one sales figure for each product. Here’s a breakdown of the formulas used for each metric:
+
+AVERAGE Formula:
+ =AVERAGEIF(A:A, "Gloves", B:B) to find the average sales for Gloves (where A:A contains product names and B:B contains sales data).
+Repeated this for each product by changing the product name in the formula.
 
 
+### EXCEL VISUALIZATION
 
-
-
-
-
-
-
-
-
-
-
+![Screenshot (19)](https://github.com/user-attachments/assets/6712febc-30fd-4812-b508-04e82eed2525)
 
 
 
