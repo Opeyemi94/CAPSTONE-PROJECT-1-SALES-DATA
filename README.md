@@ -12,7 +12,7 @@ So the goes of this project is to look more into this data to find more clear in
 
 ### **DATA SOURCES**
 ______________
-The Primary source of Data used here is coming from COMFORTZONE ENTERPRISES Sales and Marketing Department.  
+The Primary source of Data of this project was excel data provided by the Incubator Hub LITA Facilitators.  
 
 #### ***Tools used in this project are:***
 - Micro-soft Excel [Download Here](http://www.microsoft.com)
