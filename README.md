@@ -24,6 +24,15 @@ The Primary source of Data used here is coming from COMFORTZONE ENTERPRISES Sale
 - Power Business Intelligence [Download Here](https://www.mircosoft.com)
   1. To Create a dashboard that visualizes the insights found in Excel and SQL.
 
+  ### COLUMN DESCRIPTION FOR SALES DATA
+  - OrdeID: A unique identifier to each order
+  - CustomerID: A unique identifier for each customer placing an order
+  - Product: The specific product purchased in each transaction
+  - Region: The Geographical location where order are placed
+  - Quantity: The number of units purchased for each product ordered
+  - UnitPrice: The price per unit of the product
+  - Total Sales/Revenue:  Quantity * UnitPrice
+
 ### **OBJECTIVES:**
 ________________
 1. Identify Top-Selling Products: Analyze sales data to determine which products drive the highest revenue.
