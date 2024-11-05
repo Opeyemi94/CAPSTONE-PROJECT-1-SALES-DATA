@@ -113,6 +113,24 @@ _______________
       having sum(Quantity) = 0 
        ```
 
+SQL QUERIES
+
+  ![Screenshot (6)](https://github.com/user-attachments/assets/f98fb38d-0788-47fb-9714-c9e5b096b26f)
+
+![Screenshot (7)](https://github.com/user-attachments/assets/9d5bfb58-ca7f-49c1-8153-199849243881)
+
+![Screenshot (8)](https://github.com/user-attachments/assets/db1bb344-e04f-4717-ab99-50bf9295a768)
+
+![Screenshot (9)](https://github.com/user-attachments/assets/ebde0df2-1320-459c-8417-6d269497e34b)
+
+![Screenshot (10)](https://github.com/user-attachments/assets/305049e9-d71a-48aa-b68a-14ee3753de7c)
+
+![Screenshot (11)](https://github.com/user-attachments/assets/7e2134a8-4b1c-4305-b029-cead42a43865)
+
+![Screenshot (9)](https://github.com/user-attachments/assets/a3a8b062-e560-4a11-82b4-cc9c5cdf7c11)
+
+![Screenshot (14)](https://github.com/user-attachments/assets/9a27dfb2-b491-44f7-b1dd-d674816decc6)
+
 ### **EXCEL (PIVOT TABLE AND EXCEL VISUALIZATION):**
 - Product Sales Summary: Create a pivot table that displays total sales by product, allowing for the quick identification of top sellers.
 - Regional Sales Summary: Summarize sales by region to compare performance across different geographic areas.
