@@ -273,11 +273,12 @@ Repeated this for each product by changing the product name in the formula.
 
 
 
-Power BI Dashboard Development:
+### Power BI Dashboard Development:
 
-Import the summarized data from SQL and Excel into Power BI.
-Develop an interactive dashboard with visuals like bar charts, line graphs, and maps to illustrate:
-Top-selling products.
-Regional performance through a heat map or regional bar charts.
-Monthly sales trends with a line graph for easy pattern recognition.
+- Import the summarized data from SQL and Excel into Power BI.
+- Develop an interactive dashboard with visuals like bar charts, line graphs, and maps to illustrate:
+- Top-selling products.
+- Regional performance through a heat map or regional bar charts.
+- Monthly sales trends with a line graph for easy pattern recognition.
 
+![Screenshot (22)](https://github.com/user-attachments/assets/2885cdd0-eee8-4edd-9323-68af61182350)
